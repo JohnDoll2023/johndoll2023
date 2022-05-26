@@ -1,9 +1,11 @@
 <h1 align="center">Hello, User</h1>
 
-```
-##  man john-doll
+<pre>
+<h2>man john-doll</h2>
 
-** NAME **
-- John Doll
+<b> NAME </b>
+<ul>
+<li>John Doll</li>
+</ul>
 
-```
+</pre>

@@ -4,7 +4,7 @@
 <h2> man john-doll</h2> <!-- <img src="terminalnb.png" alt="Terminal entry line"> -->
 
 <b> NAME </b>
-<ul style="list-stype-type:none">
+<ul style="list-style-type:none;">
 <li> - John Doll</li>
 </ul>
 

@@ -1,35 +1,24 @@
-<h1 align="center">Hello, User</h1>
+<h1 align="center">Hello, User!</h1>
 
 
-<pre>
-<h2> man john-doll</h2> <!-- <img src="terminalnb.png" alt="Terminal entry line"> -->
 
+## man john-doll <!-- <img src="terminalnb.png" alt="Terminal entry line"> -->
 
+**NAME**
 <div id="user-content-toc">
-  <b> NAME </b>
-  <ul style="list-style:none;">
-    <li style="list-style:none; text-indent: 40px;"> - John Doll</li>
+  <ul>
+    <li><strong>John Doll</strong> - human male</li>
   </ul>
 </div>
+<br>
 
-<b> SYNOPSIS </b>
-<ul style="list-style-type:none;">
-  <!--<li> - John Doll</li>-->
-</ul>
+**SYNOPSIS**
 
-<b> DESCRIPTION </b>
-<b>John Doll</b> is a senior Computer Science student at Miami University in Oxford, Ohio.
-<p style="text-indent: 0.5em hanging;">
-<b>John</b> is from Wapakoneta, Ohio and graduated from Wapakoneta High School in 2019. He has had an interest in computers and the like since late middle school/early high school. Something about the complexity of the machines and how they work is what first gravitated <b>John</b> to the subject. The vastness of it all has kept him from escaping the event horizon of the tech industry.
-</p>
+<br>
 
+**DESCRIPTION**
 
+**John Doll** is a senior Computer Science major at Miami University in Oxford, Ohio.
 
-<div id="user-content-toc">
-  <b> NAME </b>
-  <ul style="list-style:none;">
-    <li style="list-style:none;"> - John Doll</li>
-  </ul>
-</div>
+**John** is from Wapakoneta, Ohio and graduated from Wapakoneta High School in 2019. He has had an interest in computers and the like since late middle school/early high school. Something about the complexity of the machines and how they work is what first gravitated **John** to the subject. The vastness of it all has kept him from escaping the event horizon of the tech industry.
 
-</pre>

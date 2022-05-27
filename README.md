@@ -1,12 +1,16 @@
 <h1 align="center">Hello, User</h1>
 
+
 <pre>
 <h2> man john-doll</h2> <!-- <img src="terminalnb.png" alt="Terminal entry line"> -->
 
-<b> NAME </b>
-<ul style="list-style-type:none;">
-  <li> - John Doll</li>
-</ul>
+
+<div id="user-content-toc">
+  <b> NAME </b>
+  <ul style="list-style:none;">
+    <li style="list-style:none; text-indent: 40px;"> - John Doll</li>
+  </ul>
+</div>
 
 <b> SYNOPSIS </b>
 <ul style="list-style-type:none;">
@@ -21,8 +25,11 @@
 
 
 
-<ul style="list-style-type:none;">
-  <li> - John Doll</li>
-</ul>
+<div id="user-content-toc">
+  <b> NAME </b>
+  <ul style="list-style:none;">
+    <li style="list-style:none;"> - John Doll</li>
+  </ul>
+</div>
 
 </pre>

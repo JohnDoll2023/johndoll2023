@@ -25,3 +25,5 @@
 **John** has taken many Computer Science courses on a variety of topics including machine learning, cloud computing, computer and network security, data structures, algorithms, etc. He is still trying to decide what he likes best as he has a general love for CS and could see himself doing many different things. 
 
 Some of **John**'s best work includes his [personal website](https://johnmdoll.com/), a COVID dashboard he helped to create in December 2020, and a yet to be released mobile app called Daily Tennis.
+
+**John** has had three internships. First, in the summer of 2020, John worked for Hospitality Wifi, a company that made wifi networks for hotels. In the summer of 2021, **John** worked for Amazon in Seattle on the Amazon Go team, creating an internal website. As for summer 2022, **John** worked for Amazon in Silicon Valley on the [Deep Java Library](https://github.com/deepjavalibrary/djl) team, helping to expand the library with Android apps.

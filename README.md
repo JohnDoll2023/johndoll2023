@@ -34,7 +34,7 @@
 
 - Finished sophomore year of college
 - Interned at Amazon in Seattle
-- Created second rendition of website which you can [see for yourself](https://johnmdoll.com/)
+- Created second rendition of website which you can [visit](https://johnmdoll.com/)
 
 <a href="https://github.com/JohnDoll2023/Website">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />

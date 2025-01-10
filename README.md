@@ -1,6 +1,6 @@
 <h4><a href="https://youtu.be/k2g51A6goRI?si=wNdqUjyXh9dRJYYu" target="_blank" rel="noopener noreferrer">2024</a></h4>
 
-- Started Grad school pursuing Master's in Computer Sciene from the University of Illinois
+- Started Grad school pursuing Master's in Computer Science from the University of Illinois
 - Created Hostvibes website (currently private repo)
   <br><br>
 

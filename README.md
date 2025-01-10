@@ -2,6 +2,7 @@
 
 - Started Grad school pursuing Master's in Computer Science from the University of Illinois
 - Created Hostvibes website (currently private repo)
+- Promoted to senior engineer ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7274546159812005889/))
   <br><br>
 
 <h4><a href="https://youtu.be/ovLwd2KnGKE?si=-lW-VRjZofXNOl6_" target="_blank">2023</a></h4>

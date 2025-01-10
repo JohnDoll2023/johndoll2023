@@ -1,16 +1,16 @@
-<h4><a href="https://youtu.be/k2g51A6goRI?si=wNdqUjyXh9dRJYYu">2024</a></h4>
+<h4><a href="https://youtu.be/k2g51A6goRI?si=wNdqUjyXh9dRJYYu" target="_blank">2024</a></h4>
 
 - Started Grad school pursuing Master's in Computer Sciene from the University of Illinois
 - Created Hostvibes website (currently private repo)
   <br><br>
 
-<h4>2023</h4>
+<h4><a href="https://youtu.be/ovLwd2KnGKE?si=-lW-VRjZofXNOl6_" target="_blank">2023</a></h4>
 
  - Graduated in May from Miami University with a Bachelor's of Science in Computer Science
  - Started work at Lutron Electronics
    <br><br>
 
-2022
+<h4><a href="https://youtu.be/moU395TJJUU?si=AoSLxmdFOS8otaPy" target="_blank">2022</a></h4>
 
 - Finished junior year of college
 - Interned at Amazon in Silicon Valley
@@ -29,11 +29,11 @@
 </a>
 <br><br>
 
-<h4>2021</h4>
+<h4><a href="https://youtu.be/U1x9bChA4kg?si=Ql5lpR2Hcam5cMj4" target="_blank">2021</a></h4>
 
 - Finished sophomore year of college
 - Interned at Amazon in Seattle
-- Created second rendition of website
+- Created second rendition of website which you can [see for yourself](https://johnmdoll.com/)
 
 <a href="https://github.com/JohnDoll2023/Website">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
@@ -41,7 +41,7 @@
 
 <br><br>
 
-<h4>2020</h4>
+<h4><a href="https://youtu.be/IpYX3x2q3HE?si=V7lLNE5CnndmJSgt" target="_blank">2020</a></h4>
 
 - Finished freshman year of college
 - Interned at Hospitality Wifi in Ada, Ohio

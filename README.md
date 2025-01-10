@@ -1,4 +1,4 @@
-<h4><a href="https://youtu.be/k2g51A6goRI?si=wNdqUjyXh9dRJYYu" target="_blank">2024</a></h4>
+<h4><a href="https://youtu.be/k2g51A6goRI?si=wNdqUjyXh9dRJYYu" target="_blank" rel="noopener noreferrer">2024</a></h4>
 
 - Started Grad school pursuing Master's in Computer Sciene from the University of Illinois
 - Created Hostvibes website (currently private repo)

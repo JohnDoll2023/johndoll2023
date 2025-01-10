@@ -7,7 +7,7 @@
 <h4><a href="https://youtu.be/ovLwd2KnGKE?si=-lW-VRjZofXNOl6_" target="_blank">2023</a></h4>
 
  - Graduated in May from Miami University with a Bachelor's of Science in Computer Science
- - Started work at Lutron Electronics
+ - Started work at [Lutron Electronics](https://luxury.lutron.com/us/en)
    <br><br>
 
 <h4><a href="https://youtu.be/moU395TJJUU?si=AoSLxmdFOS8otaPy" target="_blank">2022</a></h4>

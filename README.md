@@ -1,29 +1,48 @@
-<h1 align="center">Hello, User!</h1>
+2024
+- Started Grad school pursuing Master's in Computer Sciene from the University of Illinois
+- Created Hostvibes website (currently private repo)
 
+2023
+- Graduated in May from Miami University with a Bachelor's of Science in Computer Science
+- Started work at Lutron Electronics
 
+2022
+- Finished junior year of college
+- Interned at Amazon in Silicon Valley
+- Second shot at DailyTennis app (denied by Apple. first attempt is private repo)
 
-## man john-doll <!-- <img src="terminalnb.png" alt="Terminal entry line"> -->
+<a href="https://github.com/JohnDoll2023/djl">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=djl&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 
-**NAME**
-<div id="user-content-toc">
-  <ul>
-    <li><strong>John Doll</strong> - human male</li>
-  </ul>
-</div>
-<br>
+<a href="https://github.com/JohnDoll2023/djl-demo">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=djl-demo&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 
-**SYNOPSIS**
+<a href="https://github.com/JohnDoll2023/DailyTennis">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=DailyTennis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 
-<br>
+2021
+- Finished sophomore year of college
+- Interned at Amazon in Seattle
+- Created second rendition of website
 
-**DESCRIPTION**
+<a href="https://github.com/JohnDoll2023/Website">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 
-**John Doll** is a senior Computer Science major at Miami University in Oxford, Ohio.
+2020
+- Finished freshman year of college
+- Interned at Hospitality Wifi in Ada, Ohio
+- Created covid dashboard
+- Created first rendition of my website
+- Created my GitHub account
 
-**John** is from Wapakoneta, Ohio and graduated from Wapakoneta High School in 2019. He has had an interest in computers and the like since late middle school/early high school. Something about the complexity of the machines and how they work is what first gravitated **John** to the subject. The vastness of it all has kept him from escaping the event horizon of the tech industry.
+<a href="https://github.com/JohnDoll2023/COVID19-Dashboard">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=COVID19-Dashboard&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 
-**John** has taken many Computer Science courses on a variety of topics including machine learning, cloud computing, computer and network security, data structures, algorithms, etc. He is still trying to decide what he likes best as he has a general love for CS and could see himself doing many different things. 
-
-Some of **John**'s best work includes his [personal website](https://johnmdoll.com/), a COVID dashboard he helped to create in December 2020, and a yet to be released mobile app called Daily Tennis.
-
-**John** has had three internships. First, in the summer of 2020, John worked for Hospitality Wifi, a company that made wifi networks for hotels. In the summer of 2021, **John** worked for Amazon in Seattle on the Amazon Go team, creating an internal website. As for summer 2022, **John** worked for Amazon in Silicon Valley on the [Deep Java Library](https://github.com/deepjavalibrary/djl) team, helping to expand the library with Android apps.
+<a href="https://github.com/JohnDoll2023/Website/tree/ec30e252db0dc95f4e69fdba343dbe19b9ae89eb">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>

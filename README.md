@@ -1,12 +1,17 @@
-2024
+<h4>2024</h4>
+
 - Started Grad school pursuing Master's in Computer Sciene from the University of Illinois
 - Created Hostvibes website (currently private repo)
+  <br><br>
 
-2023
-- Graduated in May from Miami University with a Bachelor's of Science in Computer Science
-- Started work at Lutron Electronics
+<h4>2023</h4>
+
+ - Graduated in May from Miami University with a Bachelor's of Science in Computer Science
+ - Started work at Lutron Electronics
+   <br><br>
 
 2022
+
 - Finished junior year of college
 - Interned at Amazon in Silicon Valley
 - Second shot at DailyTennis app (denied by Apple. first attempt is private repo)
@@ -22,8 +27,10 @@
 <a href="https://github.com/JohnDoll2023/DailyTennis">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=DailyTennis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
+<br><br>
 
-2021
+<h4>2021</h4>
+
 - Finished sophomore year of college
 - Interned at Amazon in Seattle
 - Created second rendition of website
@@ -32,7 +39,10 @@
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 
-2020
+<br><br>
+
+<h4>2020</h4>
+
 - Finished freshman year of college
 - Interned at Hospitality Wifi in Ada, Ohio
 - Created covid dashboard

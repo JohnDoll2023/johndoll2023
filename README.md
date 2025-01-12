@@ -2,7 +2,12 @@
 
 - Started Grad school pursuing Master's in Computer Science from the University of Illinois
 - Created Hostvibes website (currently private repo)
+- Created third version of my personal website using Next.js and React
 - Promoted to senior engineer ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7274546159812005889/))
+
+<a href="https://github.com/JohnDoll2023/reactwebsite">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
   <br><br>
 
 <h4><a href="https://youtu.be/ovLwd2KnGKE?si=-lW-VRjZofXNOl6_" target="_blank">2023</a></h4>

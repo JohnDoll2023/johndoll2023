@@ -5,6 +5,12 @@
 - Created third version of my personal website using Next.js and React
 - Promoted to senior engineer ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7274546159812005889/))
 
+<details>
+	<summary>Courses taken during first grad year</summary>
+	<br>
+	&nbsp &nbsp No public repos :(
+</details>
+
 <a href="https://github.com/JohnDoll2023/reactwebsite">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
@@ -14,13 +20,32 @@
 
  - Graduated in May from Miami University with a Bachelor's of Science in Computer Science
  - Started work at [Lutron Electronics](https://luxury.lutron.com/us/en)
-   <br><br>
+
+<details>
+	<summary>Courses taken during Senior Year</summary>
+	<br>
+	&nbsp &nbsp No public repos :(
+</details>
+   <br>
+   
 
 <h4><a href="https://youtu.be/moU395TJJUU?si=AoSLxmdFOS8otaPy" target="_blank">2022</a></h4>
 
 - Finished junior year of college
 - Interned at Amazon in Silicon Valley
 - Second shot at DailyTennis app (denied by Apple. first attempt is private repo)
+
+<details>
+	<summary>Courses taken during Junior Year</summary>
+	<br>
+	&nbsp &nbsp Public repos:
+
+ - [CSE 270M: Mathematics in Computer Science](https://github.com/JohnDoll2023/CSE-270M)
+ - [CSE 432: Machine Learning](https://github.com/JohnDoll2023/CSE-432)
+ - [CSE 443: High Performance Computing](https://github.com/JohnDoll2023/CSE-443)
+ - [CSE 470G: Cloud Computing and Devops](https://github.com/JohnDoll2023/CSE-470g)
+ - [ISA 414: Big Data](https://github.com/JohnDoll2023/ISA-414)
+</details>
 
 <a href="https://github.com/JohnDoll2023/djl">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=djl&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
@@ -41,6 +66,15 @@
 - Interned at Amazon in Seattle
 - Created second rendition of website which you can [visit](https://johnmdoll.com/)
 
+<details>
+	<summary>Courses taken during Sophomore Year</summary>
+	<br>
+	&nbsp &nbsp Public repos:
+
+ - [CSE 374: Algorithms I](https://github.com/JohnDoll2023/CSE-374)
+ - [CSE 381: Systems II](https://github.com/JohnDoll2023/CSE-381)
+</details>
+
 <a href="https://github.com/JohnDoll2023/Website">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
@@ -57,9 +91,12 @@
 
 <details>
 	<summary>Courses taken during Freshman Year</summary>
-	- These are just the ones that are public:
-	- [CSE 174: Introduction to Programming](https://github.com/JohnDoll2023/CSE-174)
-	- [CSE 271: Object Oriented Programming](https://github.com/JohnDoll2023/CSE-271)
+	<br>
+	&nbsp &nbsp Public repos:
+	
+- [CSE 174: Introduction to Programming](https://github.com/JohnDoll2023/CSE-174)
+- [CSE 271: Object Oriented Programming](https://github.com/JohnDoll2023/CSE-271)
+- [STA 363: Statistical Modeling](https://github.com/JohnDoll2023/STA-363)
 </details>
 
 <a href="https://github.com/JohnDoll2023/COVID19-Dashboard">

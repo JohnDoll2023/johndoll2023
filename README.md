@@ -55,6 +55,13 @@
 - Created first rendition of my website
 - Created my GitHub account
 
+<details>
+	<summary>Courses taken during Freshman Year</summary>
+	- These are just the ones that are public:
+	- [CSE 174: Introduction to Programming](https://github.com/JohnDoll2023/CSE-174)
+	- [CSE 271: Object Oriented Programming](https://github.com/JohnDoll2023/CSE-271)
+</details>
+
 <a href="https://github.com/JohnDoll2023/COVID19-Dashboard">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=COVID19-Dashboard&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>

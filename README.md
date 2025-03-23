@@ -1,3 +1,5 @@
+<sup><i>design concept from [Ethan Gutknecht's profile](https://github.com/ethangtkt/ethangtkt)</i></sup>
+
 <h1>2025</h1>
 
 - Started Grad school pursuing Master's in Computer Science from the University of Illinois

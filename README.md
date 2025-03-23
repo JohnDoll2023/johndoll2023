@@ -2,8 +2,7 @@
 
 <h1>2025</h1>
 
-- Started Grad school pursuing Master's in Computer Science from the University of Illinois
-- Created Hostvibes website (currently private repo)
+- Continued pursuit of Master's in Computer Science from the University of Illinois
 - Continued development on third version of my personal website using Next.js and React
 
 <details>

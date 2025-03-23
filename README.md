@@ -204,3 +204,9 @@ Projects that I put a lot of time into in 2020:
 <a href="https://github.com/JohnDoll2023/Website/tree/ec30e252db0dc95f4e69fdba343dbe19b9ae89eb">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
+<br><br>
+
+<h1><a href="https://youtu.be/KMg3f-rbHRg?si=B-NqHPiSAKI2DIca" target="_blank">2019</a></h1>
+
+- Began freshman year of college at Miami University majoring in Computer Science
+- First experience ever with coding/programming

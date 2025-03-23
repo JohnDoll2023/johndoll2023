@@ -124,6 +124,9 @@ Projects that I put a lot of time into in 2022:
 <a href="https://github.com/JohnDoll2023/DailyTennis">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=DailyTennis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
+<a href="https://github.com/ThetaTauMiami/thetataumiami2022">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThetaTauMiami&repo=thetataumiami2022&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 <br><br>
 
 <h1><a href="https://youtu.be/U1x9bChA4kg?si=Ql5lpR2Hcam5cMj4" target="_blank">2021</a></h1>

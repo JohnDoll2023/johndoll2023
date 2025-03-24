@@ -17,6 +17,9 @@
 
 Projects that I put a lot of time into in 2025:
 <br>
+<a href="https://github.com/JohnDoll2023/fantasy-baseball-analysis">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=fantasy-baseball-analysis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+</a>
 <a href="https://github.com/JohnDoll2023/reactwebsite">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>

@@ -13,6 +13,7 @@
 	
 - CS 416: Data Visualization
 - CS 513: Theory and Practice of Data Cleaning
+- CS 598: Foundations of Data Curation
 </details>
 
 Projects that I put a lot of time into in 2025:

@@ -11,8 +11,8 @@
 	&nbsp &nbsp Repos not public: 
 	<br>
 	
-- CS 412: Data Mining
-- CS 427: Software Engineering
+- CS 416: Data Visualization
+- CS 513: Theory and Practice of Data Cleaning
 </details>
 
 Projects that I put a lot of time into in 2025:

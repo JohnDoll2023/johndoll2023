@@ -1,6 +1,6 @@
 <sup><i>design concept from [Ethan Gutknecht's profile](https://github.com/ethangtkt/ethangtkt)</i></sup>
 
-<h1>2025</h1>
+<h1><a href="https://www.youtube.com/watch?v=JjEdeWdaqmA" target="_blank" rel="noopener noreferrer">2025</a></h1>
 
 - Continued pursuit of Master's in Computer Science from the University of Illinois
 - Continued development on third version of my personal website using Next.js and React

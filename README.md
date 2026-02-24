@@ -1,6 +1,7 @@
 <sup><i>design concept from [Ethan Gutknecht's profile](https://github.com/ethangtkt/ethangtkt)</i></sup>
 
 <h1>2026</h1>
+
 - Continued pursuit of Master's in Computer Science from the University of Illinois
 - Continued development on third version of my personal website using Next.js and React
 

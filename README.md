@@ -1,5 +1,18 @@
 <sup><i>design concept from [Ethan Gutknecht's profile](https://github.com/ethangtkt/ethangtkt)</i></sup>
 
+<h1>2026</h1>
+- Continued pursuit of Master's in Computer Science from the University of Illinois
+- Continued development on third version of my personal website using Next.js and React
+
+<details>
+	<summary>Courses taken during third grad year</summary>
+	<br>
+	&nbsp &nbsp Repos not public: 
+	<br>
+	
+- CS 598: Deep Learning
+</details>
+
 <h1><a href="https://www.youtube.com/watch?v=JjEdeWdaqmA" target="_blank" rel="noopener noreferrer">2025</a></h1>
 
 - Continued pursuit of Master's in Computer Science from the University of Illinois
@@ -22,7 +35,7 @@ Projects that I put a lot of time into in 2025:
 	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=fantasy-baseball-analysis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/reactwebsite">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <br><br>
 
@@ -46,7 +59,7 @@ Projects that I put a lot of time into in 2025:
 Projects that I put a lot of time into in 2024:
 <br>
 <a href="https://github.com/JohnDoll2023/reactwebsite">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=reactwebsite&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <br><br>
 
@@ -62,16 +75,16 @@ Projects that I put a lot of time into in 2024:
 	<br>
 
 <a href="https://github.com/JohnDoll2023/CSE-485">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-485&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-485&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/IMS-351">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=IMS-351&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=IMS-351&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-270E">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-270E&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-270E&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-470M">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-470M&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-470M&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 </details>
 <br>
@@ -89,44 +102,44 @@ Projects that I put a lot of time into in 2024:
 	<br>
 
 <a href="https://github.com/JohnDoll2023/CSE-270M">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-270M&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-270M&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-432">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-432&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-432&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-443">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-443&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-443&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-470G">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-470G&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-470G&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/ISA-414">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=ISA-414&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=ISA-414&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-567">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-567&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-567&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-382">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-382&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-382&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-465">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-465&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-465&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 </details>
 
 Projects that I put a lot of time into in 2022:
 <br>
 <a href="https://github.com/JohnDoll2023/djl">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=djl&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=djl&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/djl-demo">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=djl-demo&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=djl-demo&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/DailyTennis">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=DailyTennis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=DailyTennis&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/ThetaTauMiami/thetataumiami2022">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThetaTauMiami&repo=thetataumiami2022&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ThetaTauMiami&repo=thetataumiami2022&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <br><br>
 
@@ -143,35 +156,35 @@ Projects that I put a lot of time into in 2022:
 	<br>
 
 <a href="https://github.com/JohnDoll2023/CSE-374">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-374&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-374&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-381">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-381&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-381&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-278">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-278&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-278&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-383">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-383&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-383&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/STA-404">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=STA-404&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=STA-404&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-274">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-274&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-274&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-385">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-385&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-385&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/KNH-275">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=KNH-275&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=KNH-275&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 </details>
 
 Projects that I put a lot of time into in 2021:
 <br>
 <a href="https://github.com/JohnDoll2023/Website">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <br><br>
 
@@ -190,23 +203,23 @@ Projects that I put a lot of time into in 2021:
  	<br>
 
 <a href="https://github.com/JohnDoll2023/CSE-174">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-174&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-174&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/CSE-271">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=CSE-271&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=CSE-271&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/STA-363">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=STA-363&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=STA-363&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 </details>
 
 Projects that I put a lot of time into in 2020:
 <br>
 <a href="https://github.com/JohnDoll2023/COVID19-Dashboard">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=COVID19-Dashboard&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=COVID19-Dashboard&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <a href="https://github.com/JohnDoll2023/Website/tree/ec30e252db0dc95f4e69fdba343dbe19b9ae89eb">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=johndoll2023&repo=Website&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 </a>
 <br><br>
 
